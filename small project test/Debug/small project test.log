@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\2022code\small project test\main.cpp(8,13): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+D:\2022code\small project test\main.cpp(8,13): message : 此参数用作缓冲区大小
+D:\2022code\small project test\main.cpp(8,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\2022code\small project test\main.cpp(8,13): message : 占位符和其参数预计 3 可变参数，但提供的却是 2 参数
+D:\2022code\small project test\main.cpp(8,13): message : 缺失的可变参数 3 为格式字符串“%d”所需
+  small project test.vcxproj -> D:\2022code\small project test\Debug\small project test.exe

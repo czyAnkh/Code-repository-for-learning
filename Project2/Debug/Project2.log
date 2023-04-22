@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\2022code\Project2\源.cpp(12,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\2022code\Project2\源.cpp(8): warning C4172: 返回局部变量或临时变量的地址: a
+  Project2.vcxproj -> D:\2022code\Project2\Debug\Project2.exe

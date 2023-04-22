@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\2022code\线性表的顺序表示\源.cpp(9,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965): message : 参见“OVERFLOW”的前一个定义
+  线性表的顺序表示.vcxproj -> D:\2022code\线性表的顺序表示\Debug\线性表的顺序表示.exe
