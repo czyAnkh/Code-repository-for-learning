@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+    <ImageView
+        android:id="@+id/hw_mouse_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mouse"
+        android:layout_centerInParent="true"/>
+    <Button
+        android:id="@+id/hw_btn_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开始游戏"
+        />
+    <TextView
+        android:id="@+id/hw_tv_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0分"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@+id/hw_btn_start"
+        android:textSize="26sp"
+        />
+    <TextView
+        android:id="@+id/hw_tv_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10"
+        android:layout_alignParentRight="true"
+        android:textColor="#F00"
+        android:textSize="26sp"
+        android:layout_marginRight="10dp"
+        android:layout_alignBottom="@+id/hw_tv_score"/>
+</RelativeLayout>
